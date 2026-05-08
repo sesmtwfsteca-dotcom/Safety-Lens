@@ -1,0 +1,6 @@
+{
+  "name": "WFS Inspeção de Segurança",
+  "description": "Sistema web para gerenciar inspeções de segurança comportamental no terminal logístico TECA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

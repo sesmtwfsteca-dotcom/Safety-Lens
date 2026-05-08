@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wfs-red: #E74C3C;
+  --color-wfs-red-dark: #C0392B;
+  --color-wfs-gray: #95A5A6;
+  --color-wfs-gray-light: #ECF0F1;
+  --color-wfs-gray-dark: #7F8C8D;
+  --color-wfs-text: #2C3E50;
+  
+  --color-criticality-normal: #3498DB;
+  --color-criticality-medium: #F1C40F;
+  --color-criticality-high: #E74C3C;
+}
+
+body {
+  color: var(--color-wfs-text);
+  background-color: #F8FAFC;
+}
